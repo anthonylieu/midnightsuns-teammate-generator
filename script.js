@@ -13,6 +13,7 @@ function randomChars() {
       { name: 'Nico Minoru', photoUrl: 'https://i.imgur.com/WzsP1o9.png' },
       { name: 'Scarlet Witch', photoUrl: 'https://i.imgur.com/wQql50k.png' },
       { name: 'Spider-Man', photoUrl: 'https://i.imgur.com/snJzhp6.png' },
+      { name: 'The Hunter', photoUrl: 'https://i.imgur.com/snJzhp6.png' },
       { name: 'Venom', photoUrl: 'https://i.imgur.com/Sv5i1H2.png' },
       { name: 'Wolverine', photoUrl: 'https://i.imgur.com/s1HY1aZ.png' }
     ];
